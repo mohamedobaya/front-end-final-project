@@ -1,0 +1,10 @@
+//colors
+$color-prime : #072554;
+$color-white : #FFFFFF;
+$color-dark : #000000;
+
+.navbar{
+    .navbar-item{
+        color: $color-prime !important;
+    }
+}
